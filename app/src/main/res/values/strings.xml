@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localization Example</string>
+    <string name="firstScreenNextKey">Next screen</string>
+    <string name="secondScreenLabelOneKey">King Bird Studio</string>
+    <string name="secondScreenLabelManyKey">King Birds Studio</string>
+    <string name="onboardingScreenFirstImageKey">photo</string>
+</resources>

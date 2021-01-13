@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пример Локализации</string>
+    <string name="firstScreenNextKey">Следующий экран</string>
+    <string name="secondScreenLabelOneKey">Одна Царь Птичка Студия</string>
+    <string name="secondScreenLabelManyKey">Все Царь Птицы Студии</string>
+    <string name="onboardingScreenFirstImageKey">photo</string>
+</resources>
